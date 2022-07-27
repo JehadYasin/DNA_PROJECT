@@ -9,3 +9,6 @@ The program takes a DNA sequence as an input and is used to produce several resu
   - Display of double-stranded structure
   - Amino acid sequence encoded by the sequence (Assuming it is a coding region)
   - A CSV file containing graphing coordinates
+  
+  Link (Description):
+  https://drive.google.com/file/d/1VpkeYIs1w_UfHbIjkn100tL8T4uo9XNT/view?usp=sharing
